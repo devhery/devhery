@@ -58,11 +58,6 @@
 ### 📊 Estatísticas & Sondagens do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devhery&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhery&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devhery&theme=tokyonight&locale=pt_BR" alt="Sequência de Commits" />
 </p>
 
