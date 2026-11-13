@@ -2,7 +2,7 @@
 
 # 👨‍💻 Herivany de Sousa (devhery)
 
-### 🐍 Desenvolvedor(a) Backend & Especialista Python
+### 🐍 Desenvolvedor Backend & Especialista Python
 
 [![GitHub Followers](https://img.shields.io/github/followers/devhery?label=Seguidores&style=for-the-badge&color=blue&logo=github)](https://github.com/devhery?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/devhery?label=Estrelas&style=for-the-badge&color=gold&logo=github)](https://github.com/devhery?tab=repositories)
