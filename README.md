@@ -26,8 +26,8 @@
 ### 🌐 Redes Sociais & Contato
 
 <p align="left">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/herivany-sousa-90936444b/" />
+  <a href="https://www.linkedin.com/in/herivany-sousa-90936444b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
   </a>
   <a href="mailto:seuemail@exemplo.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
